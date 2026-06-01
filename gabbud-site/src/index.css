@@ -1,0 +1,17 @@
+@import "tailwindcss";
+
+@theme {
+  --color-gabbud-black: #111111;
+  --color-gabbud-dark: #1a1a1a;
+  --color-gabbud-gray: #4a4a4a;
+  --color-gabbud-light: #9ca3af;
+  --color-gabbud-white: #fafafa;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  font-family: 'Inter', system-ui, -apple-system, sans-serif;
+}
